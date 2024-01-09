@@ -1,7 +1,7 @@
 [{
     
      
-            "PopupEnabled":"true",
+            "PopupEnabled":"false",
             
            "App1":"Monster Hunter",
            "Link1":"com.netmarble.kofg",
